@@ -4,7 +4,5 @@
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hironomiu&theme=radical)
 ---
-[<img align="left" alt="hironomiu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
+[<img align="left" alt="hironomiu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/hironomiu]
 
-<br />
-[twitter]: https://twitter.com/hironomiu
